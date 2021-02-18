@@ -4,7 +4,6 @@
   - Spring Boot
   - Spring Data Jpa
   - Thymeleaf
-  - Bootstrap
   
   ### Port
 ```
