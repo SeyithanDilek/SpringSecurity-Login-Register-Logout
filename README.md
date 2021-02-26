@@ -1,4 +1,4 @@
-# SpringSecurity-Login-Register-Logout
+# Spring-Login-Register-Logout
  
 ### Tech stack:
   - Spring Boot
